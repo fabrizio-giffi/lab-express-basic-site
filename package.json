@@ -19,6 +19,7 @@
   "homepage": "https://github.com/fabrizio-giffi/lab-express-basic-site#readme",
   "dependencies": {
     "ejs": "^3.1.8",
-    "express": "^4.18.2"
+    "express": "^4.18.2",
+    "express-ejs-layouts": "^2.5.1"
   }
 }

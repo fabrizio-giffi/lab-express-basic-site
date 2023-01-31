@@ -12,6 +12,10 @@
     z-index: -99;
 }
 
+section, .img-small {
+    border-radius: 5px;
+}
+
 ul {
     margin-right: 3%;
     gap: 30px;
@@ -27,6 +31,10 @@ p, li {
     font-size: 1.2em;
 }
 
+hr {
+    width: 60%;
+}
+
 .container {
     padding: 20px;
     margin-top: 5%;
@@ -35,8 +43,12 @@ p, li {
     color: white;
 }
 
-.welcome {
+#home-text {
     text-align: center;
+}
+
+.img-small {
+    width: 50%;
 }
 
 #ph-gallery {
